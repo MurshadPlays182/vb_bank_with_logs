@@ -3,4 +3,4 @@ Hey everyone this is nightmare182 So i added Logs on vb-banking because some peo
 Added logs system on VB-bank
 
 make sure to star my repo iif you like it :D
-SEE YOU IN THE NEXT Script goodbye
+Orignal Post https://forum.cfx.re/t/esx-property-with-logs/4932406
