@@ -4,5 +4,3 @@ Added logs system on VB-bank
 
 make sure to star my repo iif you like it :
 
-
-Orignal Post https://forum.cfx.re/t/esx-property-with-logs/4932406
